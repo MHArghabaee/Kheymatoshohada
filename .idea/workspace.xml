@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0c01dd-b5a5-49b9-8f87-b9651cf191d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Kheymatoshohada.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kheymatoshohada/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kheymatoshohada/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kheymatoshohada/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kheymatoshohada/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kheymatoshohada/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="bf0c01dd-b5a5-49b9-8f87-b9651cf191d9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747470914518</updated>
-      <workItem from="1747471050218" duration="463000" />
+      <workItem from="1747471050218" duration="836000" />
     </task>
     <servers />
   </component>
