@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf0c01dd-b5a5-49b9-8f87-b9651cf191d9" name="Changes" comment="" />
+    <list default="true" id="bf0c01dd-b5a5-49b9-8f87-b9651cf191d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/static/fonts/Ravi-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/Ravi-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/baner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/ghasem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/BookOpenText.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/headphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/message-question.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/pelak.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/search-normal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/setting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/icons/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/prof.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/Authentication.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/Change_img.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/Pop-up_box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kheymatoshohada/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kheymatoshohada/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/templates/account/authentication.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/account/authentication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/account/templates/account/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,29 +38,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2xDRy2RvIiUMlkkk3jTTO9mrLf0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mohammad Hossein/PycharmProjects/Kheymatoshohada&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohammad Hossein\PycharmProjects\Kheymatoshohada" />
+      <recent name="C:\Users\Mohammad Hossein\PycharmProjects\Kheymatoshohada\static" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Kheymatoshohada" type="Python.DjangoServer" factoryName="Django server">
       <module name="Kheymatoshohada" />
@@ -78,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747470914518</updated>
-      <workItem from="1747471050218" duration="836000" />
+      <workItem from="1747471050218" duration="2390000" />
     </task>
     <servers />
   </component>
