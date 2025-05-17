@@ -1,3 +1,5 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="en" dir="rtl" class="">
 
@@ -5,8 +7,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ورود به خیمة الشهدا</title>
-  <link rel="stylesheet" href="../output.css">
-  <link rel="shortcut icon" href="../static/img/logo.svg" type="image/x-icon">
+  <link rel="stylesheet" href="{% static "css/output.css" %}">
+  <link rel="shortcut icon" href="{% static "img/logo.svg" %}" type="image/x-icon">
 </head>
 
 <body class="w-full h-screen flex justify-center items-center
@@ -17,7 +19,7 @@
 flex justify-center items-center flex-col">
 
     <a href="index.html">
-      <img src="../static/img/logo.svg" width="150" height="40" class="my-4 p-2" alt="">
+      <img src="{% static "img/logo.svg" %}" width="150" height="40" class="my-4 p-2" alt="">
     </a>
     
 
@@ -36,7 +38,7 @@ flex justify-center items-center flex-col">
       </button>
       <p class="text-[3f4064] text-xs my-5">
         ورود شما به معنای پذیرش
-        <a href="" class="text-[#008eb2]">شرایط خیمة الشهدا</a>
+        <a href="" onclick="" class="text-[#008eb2]">شرایط خیمة الشهدا</a>
         و
         <a href="" class="text-[#008eb2]">قوانین حریم خصوصی</a>
         است.
@@ -64,9 +66,9 @@ flex justify-center items-center flex-col">
 
 
   <!-- message js -->
-  <script src="../static/js/message.js"></script>
+  <script src="{% static "js/message.js" %}"></script>
   <!-- login js -->
-  <script src="../static/js/login.js"></script>
+  <script src="{% static "js/login.js" %}"></script>
 
 </body>
 

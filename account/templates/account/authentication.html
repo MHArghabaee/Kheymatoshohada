@@ -1,3 +1,5 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 
@@ -5,8 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ورود به خیمة الشهدا</title>
-    <link rel="stylesheet" href="../output.css">
-    <link rel="shortcut icon" href="../static/img/logo.svg" type="image/x-icon">
+    <link rel="stylesheet" href="{% static "css/output.css" %}">
+    <link rel="shortcut icon" href="{% static "img/logo.svg" %}" type="image/x-icon">
     <!-- لینک آیکون‌های Heroicons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -27,7 +29,7 @@
             <!-- لوگو (وسط) -->
             <div class="flex justify-center">
                 <a href="index.html">
-                    <img src="../static/img/logo.svg" width="150" height="40" alt="لوگو">
+                    <img src="{% static "img/logo.svg" %}" width="150" height="40" alt="لوگو">
                 </a>
             </div>
         </div>
@@ -98,9 +100,9 @@
     </template>
 
     <!-- message js -->
-    <script src="../static/js/message.js"></script>
+    <script src="{% static "js/message.js" %}"></script>
     <!-- Authentication js -->
-    <script src="../static/js/Authentication.js"></script>
+    <script src="{% static "js/Authentication.js" %}"></script>
 </body>
 
 </html>
